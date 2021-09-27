@@ -1,3 +1,8 @@
+# Live Demo ==> https://tinder-clone-rk.web.app/
+![image](https://user-images.githubusercontent.com/68031934/134863279-d14f3faa-7170-4877-a3bd-611ffac9a0d3.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
